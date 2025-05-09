@@ -1,0 +1,814 @@
+---------------------------------------
+Top 3 players with highest standard | Age:
+1  Łukasz Fabiański  40.0
+2      James Milner  39.0
+3      Ashley Young  39.0
+Top 3 players with lowest standard | Age:
+1   Ayden Heaven  18.0
+2  Ethan Nwaneri  18.0
+3    Mikey Moore  17.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Playing Time | MP:
+1  Virgil van Dijk  34.0
+2  Tyrick Mitchell  34.0
+3     Raúl Jiménez  34.0
+Top 3 players with lowest standard_Playing Time | MP:
+1  Jahmai Simpson-Pusey  2.0
+2          Ayden Heaven  2.0
+3          Jason Steele  2.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Playing Time | Starts:
+1   Tyrick Mitchell  34.0
+2   Virgil van Dijk  34.0
+3  Ryan Gravenberch  34.0
+Top 3 players with lowest standard_Playing Time | Starts:
+1  Sergio Reguilón  0.0
+2     Toby Collyer  0.0
+3    William Osula  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Playing Time | Min:
+1  Virgil van Dijk  3060.0
+2       Bernd Leno  3060.0
+3  Jordan Pickford  3060.0
+Top 3 players with lowest standard_Playing Time | Min:
+1  Jahmai Simpson-Pusey  96.0
+2          Ayden Heaven  95.0
+3         Harrison Reed  93.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Performance | Gls:
+1   Mohamed Salah  28.0
+2  Alexander Isak  22.0
+3  Erling Haaland  21.0
+Top 3 players with lowest standard_Performance | Gls:
+1             Adam Smith  0.0
+2           Adam Lallana  0.0
+3  Abdul Fatawu Issahaku  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Performance | Ast:
+1     Mohamed Salah  18.0
+2      Jacob Murphy  11.0
+3  Mikkel Damsgaard  10.0
+Top 3 players with lowest standard_Performance | Ast:
+1  Łukasz Fabiański  0.0
+2   Trevoh Chalobah  0.0
+3   Albert Grønbaek  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Performance | CrdY:
+1   Saša Lukić  12.0
+2  Will Hughes  11.0
+3    Joelinton  10.0
+Top 3 players with lowest standard_Performance | CrdY:
+1          Alisson  0.0
+2  Alphonse Areola  0.0
+3      André Onana  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Performance | CrdR:
+1       Jack Stephens  2.0
+2     Bruno Fernandes  2.0
+3  Myles Lewis-Skelly  2.0
+Top 3 players with lowest standard_Performance | CrdR:
+1    Guido Rodríguez  0.0
+2  Guglielmo Vicario  0.0
+3    Ibrahim Sangaré  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Expected | xG:
+1   Mohamed Salah  23.9
+2  Erling Haaland  20.8
+3  Alexander Isak  19.0
+Top 3 players with lowest standard_Expected | xG:
+1          Danilo  0.0
+2      Danny Ward  0.0
+3  Tyrell Malacia  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Expected | xAG:
+1  Mohamed Salah  12.8
+2    Cole Palmer   9.3
+3  Son Heung-min   8.2
+Top 3 players with lowest standard_Expected | xAG:
+1      Danny Ward  0.0
+2     Alex Palmer  0.0
+3  Aaron Ramsdale  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Progression | PrgC:
+1    Jeremy Doku  176.0
+2  Mohamed Salah  142.0
+3   Kaoru Mitoma  138.0
+Top 3 players with lowest standard_Progression | PrgC:
+1       Andy Irving  0.0
+2  Łukasz Fabiański  0.0
+3   Yerson Mosquera  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Progression | PrgP:
+1  Bruno Fernandes  281.0
+2  Bruno Guimarães  241.0
+3   Joško Gvardiol  240.0
+Top 3 players with lowest standard_Progression | PrgP:
+1  Filip Jørgensen  0.0
+2    Evan Ferguson  0.0
+3   Aaron Ramsdale  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Progression | PrgR:
+1  Mohamed Salah  425.0
+2   Bryan Mbeumo  300.0
+3   Kaoru Mitoma  277.0
+Top 3 players with lowest standard_Progression | PrgR:
+1           Alisson  0.0
+2       André Onana  0.0
+3  Łukasz Fabiański  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Per 90 Minutes | Gls:
+1    Jáder Durán  0.99
+2  Donyell Malen  0.99
+3   James Mcatee  0.91
+Top 3 players with lowest standard_Per 90 Minutes | Gls:
+1      David Raya  0.0
+2  Dean Henderson  0.0
+3     Diego Gómez  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Per 90 Minutes | Ast:
+1  Tyrique George  0.87
+2      Danny Ings  0.63
+3     Bukayo Saka  0.62
+Top 3 players with lowest standard_Per 90 Minutes | Ast:
+1  Trevoh Chalobah  0.0
+2      Andy Irving  0.0
+3    Andrés García  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Per 90 Minutes | xG:
+1   James Mcatee  0.85
+2    Richarlison  0.78
+3  Marco Asensio  0.78
+Top 3 players with lowest standard_Per 90 Minutes | xG:
+1     Alphonse Areola  0.0
+2  Abdukodir Khusanov  0.0
+3      Aaron Ramsdale  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest standard_Per 90 Minutes | xAG:
+1   Tyrique George  0.63
+2  Mykhailo Mudryk  0.58
+3   Philip Billing  0.54
+Top 3 players with lowest standard_Per 90 Minutes | xAG:
+1      Willy Boly  0.0
+2   Alex McCarthy  0.0
+3  Aaron Ramsdale  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest keepers_Performance | GA90:
+1        Danny Ward  4.00
+2  Christian Walton  2.67
+3     Alex McCarthy  2.60
+Top 3 players with lowest keepers_Performance | GA90:
+1       Harrison Reed  0.0
+2     Hamza Choudhury  0.0
+3  Idrissa Gana Gueye  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest keepers_Performance | Save%:
+1            Neto  84.6
+2    Mark Travers  80.0
+3  Robert Sánchez  76.7
+Top 3 players with lowest keepers_Performance | Save%:
+1       Harrison Reed  0.0
+2     Hamza Choudhury  0.0
+3  Idrissa Gana Gueye  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest keepers_Performance | CS%:
+1              Robin Olsen  100.0
+2  Hákon Rafn Valdimarsson  100.0
+3             Jason Steele   50.0
+Top 3 players with lowest keepers_Performance | CS%:
+1       Harrison Reed  0.0
+2     Hamza Choudhury  0.0
+3  Idrissa Gana Gueye  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest keepers_Penalty Kicks | Save%:
+1  Caoimhín Kelleher  100.0
+2    Jordan Pickford  100.0
+3          Nick Pope   50.0
+Top 3 players with lowest keepers_Penalty Kicks | Save%:
+1  Gabriel Magalhães  0.0
+2      Gabriel Jesus  0.0
+3       Harry Wilson  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest shooting_Standard | SoT%:
+1     Ryan Fraser  100.0
+2     Archie Gray  100.0
+3  Séamus Coleman  100.0
+Top 3 players with lowest shooting_Standard | SoT%:
+1   Aaron Ramsdale  0.0
+2    Wesley Fofana  0.0
+3  Aaron Cresswell  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest shooting_Standard | SoT/90:
+1    Donyell Malen  2.64
+2  Luis Sinisterra  2.29
+3      Jáder Durán  2.12
+Top 3 players with lowest shooting_Standard | SoT/90:
+1    Wesley Fofana  0.0
+2   Aaron Ramsdale  0.0
+3  Aaron Cresswell  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest shooting_Standard | G/Sh:
+1         John Stones  1.0
+2  Myles Lewis-Skelly  0.5
+3        Jan Bednarek  0.4
+Top 3 players with lowest shooting_Standard | G/Sh:
+1    James Bree  0.0
+2  James Garner  0.0
+3   Luke Thomas  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest shooting_Standard | Dist:
+1   Ibrahim Sangaré  32.0
+2  Emmanuel Agbadou  31.8
+3       Ryan Fraser  31.6
+Top 3 players with lowest shooting_Standard | Dist:
+1  Fraser Forster  0.0
+2  Aaron Ramsdale  0.0
+3   Stefan Ortega  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest passing_Total | Cmp:
+1  Virgil van Dijk  2446.0
+2   William Saliba  2273.0
+3   Joško Gvardiol  2240.0
+Top 3 players with lowest passing_Total | Cmp:
+1  Odsonne Édouard  17.0
+2  Albert Grønbaek  13.0
+3    William Osula  11.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest passing_Total | Cmp%:
+1  William Saliba  94.2
+2      Nathan Aké  93.9
+3   Manuel Akanji  93.9
+Top 3 players with lowest passing_Total | Cmp%:
+1          Beto  56.6
+2  George Hirst  55.0
+3     Matz Sels  50.1
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest passing_Total | TotDist:
+1  Virgil van Dijk  44780.0
+2     Levi Colwill  39487.0
+3   William Saliba  39201.0
+Top 3 players with lowest passing_Total | TotDist:
+1  Odsonne Édouard  230.0
+2  Albert Grønbaek  135.0
+3    William Osula  126.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest passing_Short | Cmp%:
+1     Antonín Kinský  100.0
+2     Arijanet Muric  100.0
+3  Caoimhín Kelleher  100.0
+Top 3 players with lowest passing_Short | Cmp%:
+1   George Hirst  66.7
+2   Paul Onuachu  63.8
+3  William Osula  61.5
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest passing_Medium | Cmp%:
+1        Caoimhín Kelleher  100.0
+2  Hákon Rafn Valdimarsson  100.0
+3              Alex Palmer  100.0
+Top 3 players with lowest passing_Medium | Cmp%:
+1  William Osula  50.0
+2           Beto  48.5
+3   George Hirst  47.8
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest passing_Long | Cmp%:
+1  Wataru Endo  100.0
+2  Andy Irving  100.0
+3       Antony  100.0
+Top 3 players with lowest passing_Long | Cmp%:
+1       Enes Ünal  0.0
+2    Ross Stewart  0.0
+3  Tyrique George  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest passing | KP:
+1  Bruno Fernandes  84.0
+2    Mohamed Salah  80.0
+3      Cole Palmer  78.0
+Top 3 players with lowest passing | KP:
+1      Danny Ward  0.0
+2    Diego Carlos  0.0
+3  Aaron Ramsdale  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest passing | 1/3:
+1  Virgil van Dijk  265.0
+2   Joško Gvardiol  225.0
+3  Youri Tielemans  221.0
+Top 3 players with lowest passing | 1/3:
+1  Tyrique George  0.0
+2   Ali Al Hamadi  0.0
+3   William Osula  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest passing | PPA:
+1    Mohamed Salah  82.0
+2  Martin Ødegaard  78.0
+3       Alex Iwobi  77.0
+Top 3 players with lowest passing | PPA:
+1      Woyo Coulibaly  0.0
+2         André Onana  0.0
+3  Abdukodir Khusanov  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest passing | CrsPA:
+1        Pedro Porro  26.0
+2   Antonee Robinson  26.0
+3  Vitaliy Mykolenko  22.0
+Top 3 players with lowest passing | CrsPA:
+1   William Osula  0.0
+2  William Saliba  0.0
+3      Willy Boly  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest passing | PrgP:
+1  Bruno Fernandes  281.0
+2  Bruno Guimarães  241.0
+3   Joško Gvardiol  240.0
+Top 3 players with lowest passing | PrgP:
+1  Filip Jørgensen  0.0
+2    Evan Ferguson  0.0
+3   Aaron Ramsdale  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest gca_SCA | SCA:
+1      Cole Palmer  180.0
+2  Bruno Fernandes  169.0
+3    Mohamed Salah  153.0
+Top 3 players with lowest gca_SCA | SCA:
+1   Stefan Ortega  0.0
+2  Fraser Forster  0.0
+3      Danny Ward  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest gca_SCA | SCA90:
+1   Philip Billing  7.83
+2   Luis Guilherme  6.52
+3  Kevin De Bruyne  6.24
+Top 3 players with lowest gca_SCA | SCA90:
+1  Stefan Ortega  0.0
+2   Jason Steele  0.0
+3     Joe Lumley  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest gca_GCA | GCA:
+1     Mohamed Salah  26.0
+2       Bukayo Saka  22.0
+3  Mikkel Damsgaard  21.0
+Top 3 players with lowest gca_GCA | GCA:
+1  William Osula  0.0
+2     Willy Boly  0.0
+3    Sven Botman  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest gca_GCA | GCA90:
+1  Bukayo Saka  1.36
+2  Solly March  1.08
+3  Mikey Moore  0.97
+Top 3 players with lowest gca_GCA | GCA90:
+1    Aaron Cresswell  0.0
+2      William Osula  0.0
+3  William Smallbone  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest defense_Tackles | Tkl:
+1  Idrissa Gana Gueye  123.0
+2        Daniel Muñoz  109.0
+3   Noussair Mazraoui  102.0
+Top 3 players with lowest defense_Tackles | Tkl:
+1        Joe Lumley  0.0
+2  Łukasz Fabiański  0.0
+3     Stefan Ortega  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest defense_Tackles | TklW:
+1  Idrissa Gana Gueye  74.0
+2        Daniel Muñoz  70.0
+3      Moisés Caicedo  63.0
+Top 3 players with lowest defense_Tackles | TklW:
+1     Alex Palmer  0.0
+2  Aaron Ramsdale  0.0
+3   William Osula  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest defense_Challenges | Att:
+1     Alexis Mac Allister  101.0
+2  Trent Alexander-Arnold  101.0
+3              João Gomes   97.0
+Top 3 players with lowest defense_Challenges | Att:
+1  Evan Ferguson  0.0
+2     Danny Ward  0.0
+3    Alex Palmer  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest defense_Challenges | Lost:
+1              João Gomes  59.0
+2  Trent Alexander-Arnold  53.0
+3         Elliot Anderson  51.0
+Top 3 players with lowest defense_Challenges | Lost:
+1   Robin Olsen  0.0
+2  Tyrone Mings  0.0
+3   Alex Palmer  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest defense_Blocks | Blocks:
+1   Nathan Collins  68.0
+2          Murillo  66.0
+3  Tyrick Mitchell  62.0
+Top 3 players with lowest defense_Blocks | Blocks:
+1          Alisson  0.0
+2  Alphonse Areola  0.0
+3   Aaron Ramsdale  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest defense_Blocks | Sh:
+1  Nathan Collins  48.0
+2     Dara O'Shea  47.0
+3         Murillo  43.0
+Top 3 players with lowest defense_Blocks | Sh:
+1  Alphonse Areola  0.0
+2          Alisson  0.0
+3   Aaron Ramsdale  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest defense_Blocks | Pass:
+1  Alexis Mac Allister  54.0
+2      Antoine Semenyo  51.0
+3      Tyrick Mitchell  50.0
+Top 3 players with lowest defense_Blocks | Pass:
+1          Alisson  0.0
+2  Alphonse Areola  0.0
+3      André Onana  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest defense | Int:
+1  Aaron Wan-Bissaka  59.0
+2   Ryan Gravenberch  57.0
+3   Antonee Robinson  56.0
+Top 3 players with lowest defense | Int:
+1  Bart Verbruggen  0.0
+2   Arijanet Muric  0.0
+3   Antonín Kinský  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Touches | Touches:
+1  Virgil van Dijk  3010.0
+2   Joško Gvardiol  2808.0
+3     Levi Colwill  2669.0
+Top 3 players with lowest possession_Touches | Touches:
+1  Odsonne Édouard  45.0
+2    William Osula  41.0
+3  Albert Grønbaek  38.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Touches | Def Pen:
+1  Mark Flekken  1261.0
+2    Bernd Leno  1066.0
+3   André Onana  1005.0
+Top 3 players with lowest possession_Touches | Def Pen:
+1  Callum Wilson  1.0
+2  William Osula  1.0
+3    Emi Buendía  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Touches | Def 3rd:
+1     Mark Flekken  1569.0
+2  Jordan Pickford  1451.0
+3       Bernd Leno  1318.0
+Top 3 players with lowest possession_Touches | Def 3rd:
+1    Callum Wilson  5.0
+2  Odsonne Édouard  4.0
+3    William Osula  2.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Touches | Mid 3rd:
+1  Virgil van Dijk  1664.0
+2   William Saliba  1495.0
+3   Moisés Caicedo  1442.0
+Top 3 players with lowest possession_Touches | Mid 3rd:
+1            Neto  0.0
+2  Fraser Forster  0.0
+3      Danny Ward  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Touches | Att 3rd:
+1    Mohamed Salah  993.0
+2  Bruno Fernandes  888.0
+3     Bryan Mbeumo  851.0
+Top 3 players with lowest possession_Touches | Att 3rd:
+1     André Onana  0.0
+2      Danny Ward  0.0
+3  Aaron Ramsdale  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Touches | Att Pen:
+1    Mohamed Salah  320.0
+2  Antoine Semenyo  176.0
+3   Alexander Isak  175.0
+Top 3 players with lowest possession_Touches | Att Pen:
+1      Danny Ward  0.0
+2          Danilo  0.0
+3  Tyrell Malacia  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Take-Ons | Att:
+1  Mohammed Kudus  188.0
+2     Jeremy Doku  175.0
+3   Morgan Rogers  145.0
+Top 3 players with lowest possession_Take-Ons | Att:
+1      Alex Palmer  0.0
+2  Alphonse Areola  0.0
+3   Aaron Ramsdale  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Take-Ons | Succ%:
+1  Wataru Endo  100.0
+2  Andy Irving  100.0
+3      Alisson  100.0
+Top 3 players with lowest possession_Take-Ons | Succ%:
+1         Emil Krafth  0.0
+2         Emi Buendía  0.0
+3  Abdukodir Khusanov  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Take-Ons | Tkld%:
+1   Abdukodir Khusanov  100.0
+2           Lewis Dunk  100.0
+3  Armel Bella Kotchap  100.0
+Top 3 players with lowest possession_Take-Ons | Tkld%:
+1  Ayden Heaven  0.0
+2   Wataru Endo  0.0
+3     Welington  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Carries | Carries:
+1   Joško Gvardiol  1826.0
+2  Virgil van Dijk  1682.0
+3   William Saliba  1642.0
+Top 3 players with lowest possession_Carries | Carries:
+1  Odsonne Édouard  23.0
+2  Albert Grønbaek  18.0
+3    Harry Toffolo  17.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Carries | PrgDist:
+1  Jan Paul van Hecke  6643.0
+2      Joško Gvardiol  5505.0
+3          Rúben Dias  5097.0
+Top 3 players with lowest possession_Carries | PrgDist:
+1   Massimo Luongo  25.0
+2    Harry Toffolo  23.0
+3  Albert Grønbaek  15.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Carries | PrgC:
+1    Jeremy Doku  176.0
+2  Mohamed Salah  142.0
+3   Kaoru Mitoma  138.0
+Top 3 players with lowest possession_Carries | PrgC:
+1       Andy Irving  0.0
+2  Łukasz Fabiański  0.0
+3   Yerson Mosquera  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Carries | 1/3:
+1      Alex Iwobi  99.0
+2  Joško Gvardiol  91.0
+3   Matheus Cunha  88.0
+Top 3 players with lowest possession_Carries | 1/3:
+1          Alisson  0.0
+2  Alphonse Areola  0.0
+3      André Onana  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Carries | CPA:
+1  Mohamed Salah  113.0
+2   Noni Madueke   80.0
+3    Jeremy Doku   80.0
+Top 3 players with lowest possession_Carries | CPA:
+1   Yerson Mosquera  0.0
+2  Łukasz Fabiański  0.0
+3       Emi Buendía  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Carries | Mis:
+1  Mohamed Salah  105.0
+2  Morgan Rogers  102.0
+3     Liam Delap   96.0
+Top 3 players with lowest possession_Carries | Mis:
+1        Danny Ward  0.0
+2  Łukasz Fabiański  0.0
+3   Alphonse Areola  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Carries | Dis:
+1    Mohammed Kudus  88.0
+2   Bruno Guimarães  73.0
+3  Dejan Kulusevski  72.0
+Top 3 players with lowest possession_Carries | Dis:
+1      Alex Palmer  0.0
+2   Aaron Ramsdale  0.0
+3  Aaron Cresswell  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Receiving | Rec:
+1  Virgil van Dijk  2063.0
+2   Joško Gvardiol  2062.0
+3   William Saliba  2013.0
+Top 3 players with lowest possession_Receiving | Rec:
+1    William Osula  27.0
+2  Odsonne Édouard  26.0
+3  Albert Grønbaek  21.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest possession_Receiving | PrgR:
+1  Mohamed Salah  425.0
+2   Bryan Mbeumo  300.0
+3   Kaoru Mitoma  277.0
+Top 3 players with lowest possession_Receiving | PrgR:
+1           Alisson  0.0
+2       André Onana  0.0
+3  Łukasz Fabiański  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest misc_Performance | Fls:
+1       Liam Delap  65.0
+2       João Gomes  65.0
+3  Antoine Semenyo  65.0
+Top 3 players with lowest misc_Performance | Fls:
+1      Danny Ward  0.0
+2  Dean Henderson  0.0
+3  Séamus Coleman  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest misc_Performance | Fld:
+1  Bruno Guimarães  99.0
+2    Matheus Cunha  69.0
+3   James Maddison  64.0
+Top 3 players with lowest misc_Performance | Fld:
+1  Hamza Choudhury  0.0
+2   Fraser Forster  0.0
+3   Tyrique George  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest misc_Performance | Off:
+1  Dominic Calvert-Lewin  27.0
+2            Jamie Vardy  25.0
+3             Chris Wood  24.0
+Top 3 players with lowest misc_Performance | Off:
+1     Aaron Ramsdale  0.0
+2    Aaron Cresswell  0.0
+3  William Smallbone  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest misc_Performance | Crs:
+1      Pedro Porro  191.0
+2  Bruno Fernandes  172.0
+3     Bryan Mbeumo  171.0
+Top 3 players with lowest misc_Performance | Crs:
+1      Toby Collyer  0.0
+2  Tosin Adarabioyo  0.0
+3    Aaron Ramsdale  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest misc_Performance | Recov:
+1   Moisés Caicedo  197.0
+2  Bruno Fernandes  192.0
+3    Ryan Christie  182.0
+Top 3 players with lowest misc_Performance | Recov:
+1  Hákon Rafn Valdimarsson  1.0
+2           Fraser Forster  1.0
+3               Danny Ward  1.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest misc_Aerial Duels | Won:
+1         Dan Burn  127.0
+2  Virgil van Dijk  110.0
+3   Nathan Collins  103.0
+Top 3 players with lowest misc_Aerial Duels | Won:
+1  Tyrell Malacia  0.0
+2       Welington  0.0
+3  Tyrique George  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest misc_Aerial Duels | Lost:
+1            Chris Wood  117.0
+2  Jørgen Strand Larsen   96.0
+3  Jean-Philippe Mateta   95.0
+Top 3 players with lowest misc_Aerial Duels | Lost:
+1          Alisson  0.0
+2  Alphonse Areola  0.0
+3   Aaron Ramsdale  0.0
+---------------------------------------
+
+---------------------------------------
+Top 3 players with highest misc_Aerial Duels | Won%:
+1  Aaron Ramsdale  100.0
+2    Mark Travers  100.0
+3    Mark Flekken  100.0
+Top 3 players with lowest misc_Aerial Duels | Won%:
+1         Antony  0.0
+2  Andrés García  0.0
+3      Welington  0.0
+---------------------------------------
+
